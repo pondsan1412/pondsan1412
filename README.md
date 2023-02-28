@@ -2,7 +2,7 @@
 
 # Hi, My name is Pond👋
 
-ผมมองหาสิ่งใหม่ๆ ที่จะได้พัฒนา discord bot ให้มีฟังชั่นใหม่ๆ เทคโนโลยีใหม่ๆ และ เขียน api [discord bot].
+ผมมองหาสิ่งใหม่ๆ ที่จะได้พัฒนา discord bot ให้มีฟังชั่นใหม่ๆ เทคโนโลยีใหม่ๆ 
 
 - 🔭 Currently working on all things 
 - 🌱 Learning anything I can get my hands on!
