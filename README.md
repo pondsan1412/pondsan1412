@@ -1,2 +1,12 @@
-# my profiles
- 
+![a developer](https://sv1.picz.in.th/images/2023/02/28/eNG9NR.png)
+
+# Hi, My name is Pond👋
+
+ผมมองหาสิ่งใหม่ๆ ที่จะได้พัฒนา discord bot ให้มีฟังชั่นใหม่ๆ เทคโนโลยีใหม่ๆ และ เขียน api [discord bot].
+
+- 🔭 Currently working on all things 
+- 🌱 Learning anything I can get my hands on!
+- 👯 Always looking for partner
+- 💬 Ask me about all things discord bot
+- 📫 Let's connect – [Twitter](https://twitter.com/pondsan1412) | 
+
