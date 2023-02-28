@@ -1,4 +1,4 @@
-![a developer](https://sv1.picz.in.th/images/2023/02/28/eNG9NR.png)
+![a developer](https://sv1.picz.in.th/images/2023/02/28/eNF7r8.png)
 
 # Hi, My name is Pond👋
 
