@@ -11,5 +11,4 @@ SLx bot developer, MK8dx Statsbot, So-chan, SLx chatbot
 </a>
 
 
-- 📫 Let's connect – [Twitter](https://twitter.com/pondsan1412) | 
 
