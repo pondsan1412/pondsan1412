@@ -2,11 +2,12 @@
 
 # Hi, My name is Pond👋
 
-ผมมองหาสิ่งใหม่ๆ ที่จะได้พัฒนา discord bot ให้มีฟังชั่นใหม่ๆ เทคโนโลยีใหม่ๆ 
-
-- 🔭 Currently working on all things 
-- 🌱 Learning anything I can get my hands on!
-- 👯 Always looking for partner
-- 💬 Ask me about all things discord bot
+SLx bot developer, MK8dx Statsbot, So-chan, SLx chatbot
+<a href="https://github.com/pondsan1412/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pondsan1412&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/pondsan1412/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pondsan1412&theme=tokyonight" />
+</a>
 - 📫 Let's connect – [Twitter](https://twitter.com/pondsan1412) | 
 
