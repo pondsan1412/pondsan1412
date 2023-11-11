@@ -10,5 +10,5 @@ SLx bot developer, MK8dx Statsbot, So-chan, SLx chatbot
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pondsan1412&theme=tokyonight" />
 </a>
 
-// comment
+
 
