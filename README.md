@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1082055411462586499/1099250694915104769/2.gif?ex=669e187c&is=669cc6fc&hm=481ad22f03438e8a20441939ba4f3caf40fb7c707e24b21984eb8750110d978a&" align="center" style="width: 100%" />
+<img src="![Uploading image.png…]()
+&" align="center" style="width: 100%" />
 </div>  
   
 
