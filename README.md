@@ -1,7 +1,7 @@
-<div align="center">
-<img src="![image](https://github.com/user-attachments/assets/88122838-2e61-40f6-af40-fab00b4d5637)
-&" align="center" style="width: 100%" />
-</div>  
+
+![image](https://github.com/user-attachments/assets/88af35ca-4c07-4f75-b016-6169f1c87adf)
+
+
   
 
 ### <div align="center">I'm Pond  👨‍💻 working remotely since 2020 🚀</div>  
