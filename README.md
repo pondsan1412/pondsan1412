@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Satorn</h1>
-<h3 align="center">A passionate backend developer from bangkok</h3>
+<h1 align="center">Hi 👋, I'm Pond</h1>
+<h3 align="center">hired developer from Mass Corporation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pondsan1412&label=Profile%20views&color=0e75b6&style=flat" alt="pondsan1412" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [cctv vehicles detection](NULL)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Tenserflow, PyTouch, Pandas**
 
 - 👨‍💻 All of my projects are available at [https://satorn.site/](https://satorn.site/)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://satorn.site/resume.pdf](https://satorn.site/resume.pdf)
 
-- ⚡ Fun fact **I'm not developer**
+- ⚡ Fun fact **I'm python developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
